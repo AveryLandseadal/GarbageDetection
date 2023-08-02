@@ -1,7 +1,3 @@
-# Avery Landseadal
-# ID - 001287745
-# 02/23/2023
-# C964 Capstone
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
